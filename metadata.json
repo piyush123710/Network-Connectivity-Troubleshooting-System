@@ -1,0 +1,6 @@
+{
+  "name": "NetTrace Diagnostics",
+  "description": "Web-based network connectivity diagnostics, automated root-cause troubleshooting, and persistent issue reporting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
